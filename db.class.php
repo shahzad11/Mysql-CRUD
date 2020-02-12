@@ -1,6 +1,6 @@
 <?php
 
-#my CRUD library written in PHP
+#my CRUD library written in PHP 
 
 class dvdb {
 	private $db_host ;
